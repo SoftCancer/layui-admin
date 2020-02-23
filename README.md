@@ -4,10 +4,9 @@
 # 博客地址
 [https://blog.csdn.net/GAMEloft9/article/details/79045636](https://blog.csdn.net/GAMEloft9/article/details/79045636)
 
-项目访问地址：http://127.0.0.1:8080/layuicms/index.html
-
-账户：gameloft9
-密码：123456
+    项目访问地址：http://127.0.0.1:8080/layuicms/index.html
+    账户：gameloft9
+    密码：123456
 
 # 更新说明 #
 ## v1.0  ##
